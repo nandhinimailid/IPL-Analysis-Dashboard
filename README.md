@@ -41,4 +41,5 @@ The data for this dashboard was sourced from Kaggle, a public data platform that
   -> Greater Transparency & Engagement: Offers clear, interactive visuals that make IPL data easily understandable for stakeholders like BCCI, franchises, media, and fans.
 
   # Demos:
-  Dashboard Preview : https://github.com/nandhinimailid/IPL-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.jpg
+  Dashboard Preview :
+  https://github.com/nandhinimailid/IPL-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.jpg
